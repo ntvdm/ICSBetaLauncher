@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpapers" translatable="false">
+	<item>bluecrystal</item>
+	<item>bluelinebots</item>
+	<item>glowy_hex</item>
+	<item>bots</item>
+	<item>flowerbot</item>
+	<item>bucky</item>
+	<item>lotus</item>
+	<item>city</item>
+	<item>village</item>
+    </string-array>
+    <bool name="config_largeHeap">true</bool>
+    <bool name="config_useDropTargetDownTransition">true</bool>
+    <dimen name="alert_dialog_content_inset">0dp</dimen>
+    <dimen name="allAppsSmallScreenVerticalMarginLandscape">30dip</dimen>
+    <dimen name="allAppsSmallScreenVerticalMarginPortrait">60dip</dimen>
+    <dimen name="all_apps_button_vertical_padding">4dip</dimen>
+    <dimen name="app_icon_content_size">60dp</dimen>
+    <dimen name="app_icon_size">72dp</dimen>
+    <dimen name="app_widget_padding_bottom">20dp</dimen>
+    <dimen name="app_widget_padding_left">12dp</dimen>
+    <dimen name="app_widget_padding_right">12dp</dimen>
+    <dimen name="app_widget_padding_top">4dp</dimen>
+    <dimen name="apps_customize_cell_height">96dp</dimen>
+    <dimen name="apps_customize_cell_width">96dp</dimen>
+    <dimen name="apps_customize_peek_width">48dp</dimen>
+    <dimen name="apps_customize_tab_bar_height">56dp</dimen>
+    <dimen name="apps_customize_widget_cell_height_gap">36dp</dimen>
+    <dimen name="apps_customize_widget_cell_width_gap">36dp</dimen>
+    <dimen name="dragViewOffsetX">0dp</dimen>
+    <dimen name="dragViewOffsetY">-12dp</dimen>
+    <dimen name="external_drop_icon_rect_radius">10dp</dimen>
+    <dimen name="folder_cell_height">96dp</dimen>
+    <dimen name="folder_cell_width">96dp</dimen>
+    <dimen name="folder_preview_padding">4dp</dimen>
+    <dimen name="folder_preview_size">80dp</dimen>
+    <dimen name="live_wallpaper_grid_item_padding">8dip</dimen>
+    <dimen name="qsb_bar_height">56dp</dimen>
+    <dimen name="smallScreenExtraSpacing">0dip</dimen>
+    <dimen name="status_bar_height">48dip</dimen>
+    <dimen name="toolbar_button_horizontal_padding">12dip</dimen>
+    <dimen name="toolbar_button_vertical_padding">12dip</dimen>
+    <dimen name="wallpaper_chooser_grid_height">140dp</dimen>
+    <dimen name="wallpaper_chooser_grid_width">196dp</dimen>
+    <dimen name="workspace_cell_height">96dip</dimen>
+    <dimen name="workspace_cell_width">96dip</dimen>
+    <dimen name="workspace_content_large_only_top_margin">36dp</dimen>
+    <integer name="config_dragViewExtraPixels">0</integer>
+    <integer name="config_workspaceShrinkPercent">17</integer>
+    <integer name="config_workspaceSpringLoadShrinkPercentage">90</integer>
+    <string name="wallpaper_cancel">Cancel</string>
+    <string name="wallpaper_chooser_empty">No wallpapers available</string>
+    <string name="wallpaper_dialog_title">Select wallpaper</string>
+    <style name="DropTargetButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawablePadding">7.5dp</item>
+        <item name="android:paddingLeft">25dp</item>
+        <item name="android:paddingRight">25dp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:shadowColor">#393939</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="DropTargetButtonContainer">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="SearchButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:paddingBottom">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:paddingLeft">@dimen/toolbar_button_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/toolbar_button_horizontal_padding</item>
+    </style>
+    <style name="SearchButtonDivider">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="SearchDropTargetBar">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="TabIndicator.AppsCustomize">
+        <item name="android:paddingLeft">40dp</item>
+        <item name="android:paddingRight">40dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Theme" parent="android:Theme.Holo.Wallpaper.NoTitleBar">
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="Theme.WallpaperPicker">
+        <item name="android:screenOrientation">unspecified</item>
+    </style>
+    <style name="WorkspaceIcon.Landscape">
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textSize">13dip</item>
+    </style>
+    <style name="WorkspaceIcon.Landscape.AppsCustomize">
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:drawablePadding">4dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textSize">13dip</item>
+    </style>
+    <style name="WorkspaceIcon.Landscape.Folder">
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:textSize">13dip</item>
+    </style>
+    <style name="WorkspaceIcon.Portrait">
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textSize">13dip</item>
+    </style>
+    <style name="WorkspaceIcon.Portrait.AppsCustomize">
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:drawablePadding">4dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textSize">13dip</item>
+    </style>
+    <style name="WorkspaceIcon.Portrait.Folder">
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:textSize">13dip</item>
+    </style>
+</resources>

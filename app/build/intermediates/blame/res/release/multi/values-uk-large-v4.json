@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-uk-large-v4\\values-uk-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 84,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-uk-large\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endColumn": 84,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 107,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-uk-large\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endColumn": 107,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 104,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-uk-large\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 104,
+                        "endOffset": 888
+                    }
+                }
+            }
+        ]
+    }
+]

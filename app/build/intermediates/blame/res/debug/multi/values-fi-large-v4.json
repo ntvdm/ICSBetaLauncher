@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi-large-v4\\values-fi-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 82,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-fi-large\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endColumn": 82,
+                        "endOffset": 1074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 107,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-fi-large\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 107,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 99,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-fi-large\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 99,
+                        "endOffset": 883
+                    }
+                }
+            }
+        ]
+    }
+]

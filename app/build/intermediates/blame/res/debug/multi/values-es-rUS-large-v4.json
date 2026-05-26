@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS-large-v4\\values-es-rUS-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 83,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-es-rUS-large\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 83,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 117,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-es-rUS-large\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 117,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 110,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-es-rUS-large\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 110,
+                        "endOffset": 894
+                    }
+                }
+            }
+        ]
+    }
+]

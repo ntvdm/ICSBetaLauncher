@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-iw-large-v4\\values-iw-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-iw-large\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 80,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 98,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-iw-large\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 98,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 88,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-iw-large\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 88,
+                        "endOffset": 872
+                    }
+                }
+            }
+        ]
+    }
+]

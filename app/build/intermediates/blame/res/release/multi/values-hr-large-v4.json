@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hr-large-v4\\values-hr-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 83,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-hr-large\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 83,
+                        "endOffset": 1090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 114,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-hr-large\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endColumn": 114,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 107,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\values-hr-large\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 107,
+                        "endOffset": 891
+                    }
+                }
+            }
+        ]
+    }
+]

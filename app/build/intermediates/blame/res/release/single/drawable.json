@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\delete_target_selector.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\delete_target_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\focusable_view_bg.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\focusable_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_bg.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\preview_background.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\preview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flying_icon_bg.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\flying_icon_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_widget_indicator_selector.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\tab_widget_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wallpaper_gallery_background.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\wallpaper_gallery_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable\\info_target_selector.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable\\info_target_selector.xml"
+    }
+]

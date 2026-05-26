@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="apps_customize_pageLayoutWidthGap">36dp</dimen>
+    <dimen name="apps_customize_peek_width">48dp</dimen>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1595097919145716305" name="accessibility_all_apps_button">"יישומים"</string>
+    <string msgid="3628162007991023603" name="accessibility_delete_button">"הסר"</string>
+    <string msgid="816822994629942611" name="accessibility_search_button">"חפש"</string>
+    <string msgid="3938249215065842475" name="accessibility_voice_search_button">"חיפוש קולי"</string>
+    <string msgid="5591731020063337696" name="activity_not_found">"היישום לא מותקן."</string>
+    <string msgid="2578400570124163469" name="all_apps_button_label">"יישומים"</string>
+    <string msgid="1022222300329398558" name="all_apps_home_button_label">"דף הבית"</string>
+    <string msgid="8424725141379931883" name="application_name">"מפעיל"</string>
+    <string msgid="606113924828167756" name="cab_app_selection_text">"נבחר יישום אחד"</string>
+    <string msgid="8916111874189565067" name="cab_folder_selection_text">"נבחרה תיקיה אחת"</string>
+    <string msgid="5180426909324882018" name="cab_menu_app_info">"פרטי יישום"</string>
+    <string msgid="1242619904941293871" name="cab_menu_delete_app">"הסר התקנה של יישום"</string>
+    <string msgid="8115847384500412878" name="cab_shortcut_selection_text">"נבחר קיצור דרך אחד"</string>
+    <string msgid="962527270506951955" name="cab_widget_selection_text">"נבחר widget אחד"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"ביטול"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"בחר טפט מ"</string>
+    <string msgid="665300185123139530" name="delete_target_label">"הסר"</string>
+    <string msgid="748894921183769150" name="delete_target_uninstall_label">"הסר התקנה"</string>
+    <string msgid="6664588234817475108" name="delete_zone_label_all_apps">"הסר התקנה"</string>
+    <string msgid="3683920959591819044" name="delete_zone_label_all_apps_system_app">"הסר את התקנת העדכון"</string>
+    <string msgid="7153615831493049150" name="delete_zone_label_workspace">"הסר"</string>
+    <string msgid="2847171357608437154" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="4976816434597126575" name="external_drop_widget_error">"אין אפשרות להניח פריט במסך בית זה"</string>
+    <string msgid="4481311720134376218" name="external_drop_widget_pick_title">"בחר widget כדי ליצור"</string>
+    <string msgid="8633351560105748141" name="folder_hint_text">"תיקיה ללא שם"</string>
+    <string msgid="8551881338202938211" name="folder_name"/>
+    <string msgid="8359351016167075858" name="gadget_error_text">"בעיה בטעינת widget"</string>
+    <string msgid="4118484163419674240" name="group_applications">"יישומים"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"קיצורי דרך"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"טפטים"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"רכיבי Widget"</string>
+    <string msgid="4019495079517426980" name="info_target_label">"פרטי יישום"</string>
+    <string msgid="6545340627805449250" name="invalid_hotseat_item">"Widget זה גדול מדי עבור אזור העגינה."</string>
+    <string msgid="4307462194057715796" name="long_press_widget_to_add">"לחץ לחיצה ארוכה כדי לאסוף widget"</string>
+    <string msgid="2652226429823445833" name="market">"קנה"</string>
+    <string msgid="3065046628354640854" name="menu_add">"הוסף"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"הוסף למסך דף הבית"</string>
+    <string msgid="2308685199463588895" name="menu_manage_apps">"נהל יישומים"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"התראות"</string>
+    <string msgid="4826514464423239041" name="menu_search">"חיפוש"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"הגדרות"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"טפט"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"אין עוד מקום במסך דף הבית הזה."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"מאפשר ליישום להוסיף קיצורים ללא התערבות המשתמש."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"מאפשר ליישום לקרוא את ההגדרות וקיצורי הדרך בדף הבית."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"מאפשר ליישום להסיר קיצורים ללא התערבות המשתמש."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"מאפשר ליישום לשנות את ההגדרות וקיצורי הדרך בדף הבית."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"התקן קיצורי דרך"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"קרא הגדרות וקיצורי דרך מדף הבית"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"הסר קיצורי דרך"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"כתוב הגדרות וקיצורי דרך של דף הבית"</string>
+    <string msgid="5630222540525626723" name="pick_wallpaper">"טפטים"</string>
+    <string msgid="6016003384693240896" name="rename_action">"אישור"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"שם תיקיה"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"שנה את שם התיקיה"</string>
+    <string msgid="4757756326465060694" name="shortcut_duplicate">"הקיצור \'<ns1:g id="NAME">%s</ns1:g>\' כבר קיים."</string>
+    <string msgid="7071557296331322355" name="shortcut_installed">"הקיצור \'<ns1:g id="NAME">%s</ns1:g>\' נוצר."</string>
+    <string msgid="2129499669449749995" name="shortcut_uninstalled">"הקיצור \'<ns1:g id="NAME">%s</ns1:g>\' הוסר."</string>
+    <string msgid="8031072293115454221" name="title_select_application">"בחר יישום"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"בחר קיצור דרך"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Android Core Apps"</string>
+    <string msgid="7488523163288397451" name="uninstall_system_app_text">"זהו יישום מערכת ואין אפשרות להסיר את התקנתו."</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"הגדר טפט"</string>
+    <string msgid="9145860100000983599" name="widgets_tab_label">"רכיבי Widget"</string>
+</resources>

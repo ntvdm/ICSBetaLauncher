@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\homescreen_blue_normal_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\homescreen_blue_normal_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\portal_container_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\portal_container_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_unselected_pressed_focused_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\homescreen_green_strong_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\homescreen_green_strong_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_home.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\widget_resize_handle_right.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\widget_resize_handle_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home_press.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\home_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\wallpaper_picker_preview.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_picker_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\widget_info_bg.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\widget_info_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\homescreen_green_normal_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\homescreen_green_normal_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hotseat_track_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\hotseat_track_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pressed_application_background.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\pressed_application_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\paged_view_indicator.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\paged_view_indicator.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\page_hover_right_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\page_hover_right_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hotseat_bg_panel.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\hotseat_bg_panel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_trashcan_normal_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_trashcan_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_selected_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\homescreen_small_blue_strong.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\homescreen_small_blue_strong.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\page_hover_left_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\page_hover_left_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\homescreen_small_green.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\homescreen_small_green.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_appwidget.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_appwidget.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\focused_bg.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\focused_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_voice_search_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_voice_search_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_unselected_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_application.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_application.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\widget_resize_handle_bottom.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\widget_resize_handle_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\portal_ring_outer_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\portal_ring_outer_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\preview_bg_press.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\preview_bg_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\homescreen_small_blue.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\homescreen_small_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_selected_pressed_focused_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\widget_resize_handle_top.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\widget_resize_handle_top.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\apps_customize_bg.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\apps_customize_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_info_normal_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_info_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\widget_resize_handle_left.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\widget_resize_handle_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_market_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_market_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\preview_bg_focus.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\preview_bg_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_search_normal_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_search_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_info_active_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_info_active_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\default_widget_preview_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\default_widget_preview_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\widget_resize_frame_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\widget_resize_frame_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\homescreen_small_green_strong.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\homescreen_small_green_strong.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hotseat_scrubber_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\hotseat_scrubber_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\portal_ring_inner_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\portal_ring_inner_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_wallpaper.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_wallpaper.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\gardening_crosshairs.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\gardening_crosshairs.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_trashcan_active_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_trashcan_active_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\wallpaper_nexuswallpaper1.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_nexuswallpaper1.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\preview_bg.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\preview_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\divider_launcher_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\divider_launcher_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\portal_ring_rest.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\portal_ring_rest.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\apps_hotseat_button.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\apps_hotseat_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_all_apps_holo_dark.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\ic_home_all_apps_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_appwidget_error.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-mdpi\\bg_appwidget_error.9.png"
+    }
+]

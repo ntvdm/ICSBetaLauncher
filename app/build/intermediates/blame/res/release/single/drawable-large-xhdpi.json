@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-xhdpi\\portal_ring_outer_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-large-xhdpi\\portal_ring_outer_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-xhdpi\\portal_ring_inner_holo.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-large-xhdpi\\portal_ring_inner_holo.png"
+    }
+]

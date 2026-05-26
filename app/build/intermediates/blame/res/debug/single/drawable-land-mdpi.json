@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\divider_launcher_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\divider_launcher_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\hotseat_bg_panel.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\hotseat_bg_panel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\hotseat_track_holo.9.png",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\hotseat_track_holo.9.png"
+    }
+]

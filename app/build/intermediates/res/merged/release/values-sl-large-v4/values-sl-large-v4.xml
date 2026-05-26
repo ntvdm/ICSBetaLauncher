@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="5942480248232268588" name="wallpaper_cancel">"Prekliči"</string>
+    <string msgid="6543937491391049913" name="wallpaper_chooser_empty">"Ni slik za ozadje"</string>
+    <string msgid="8362944198120933329" name="wallpaper_dialog_title">"Izberite sliko za ozadje"</string>
+</resources>

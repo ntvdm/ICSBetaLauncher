@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1595097919145716305" name="accessibility_all_apps_button">"Aplikasi"</string>
+    <string msgid="3628162007991023603" name="accessibility_delete_button">"Hapus"</string>
+    <string msgid="816822994629942611" name="accessibility_search_button">"Telusuri"</string>
+    <string msgid="3938249215065842475" name="accessibility_voice_search_button">"Penelusuran Suara"</string>
+    <string msgid="5591731020063337696" name="activity_not_found">"Aplikasi tidak terpasang."</string>
+    <string msgid="2578400570124163469" name="all_apps_button_label">"Apps"</string>
+    <string msgid="1022222300329398558" name="all_apps_home_button_label">"Rumah"</string>
+    <string msgid="8424725141379931883" name="application_name">"Peluncur"</string>
+    <string msgid="606113924828167756" name="cab_app_selection_text">"1 aplikasi dipilih"</string>
+    <string msgid="8916111874189565067" name="cab_folder_selection_text">"1 map dipilih"</string>
+    <string msgid="5180426909324882018" name="cab_menu_app_info">"Detail aplikasi"</string>
+    <string msgid="1242619904941293871" name="cab_menu_delete_app">"Copot pemasangan aplikasi"</string>
+    <string msgid="8115847384500412878" name="cab_shortcut_selection_text">"1 pintasan dipilih"</string>
+    <string msgid="962527270506951955" name="cab_widget_selection_text">"1 widget dipilih"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"Batal"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Pilih wallpaper dari"</string>
+    <string msgid="665300185123139530" name="delete_target_label">"Hapus"</string>
+    <string msgid="748894921183769150" name="delete_target_uninstall_label">"Copot pemasangan"</string>
+    <string msgid="6664588234817475108" name="delete_zone_label_all_apps">"Copot pemasangan"</string>
+    <string msgid="3683920959591819044" name="delete_zone_label_all_apps_system_app">"Copot pemasangan pemutakhiran"</string>
+    <string msgid="7153615831493049150" name="delete_zone_label_workspace">"Hapus"</string>
+    <string msgid="2847171357608437154" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="4976816434597126575" name="external_drop_widget_error">"Tidak dapat menaruh item pada layar utama ini"</string>
+    <string msgid="4481311720134376218" name="external_drop_widget_pick_title">"Pilih widget untuk membuat"</string>
+    <string msgid="8633351560105748141" name="folder_hint_text">"Map Tanpa Nama"</string>
+    <string msgid="8551881338202938211" name="folder_name"/>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Masalah memuat widget"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Aplikasi"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Pintasan"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Wallpaper"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Widget"</string>
+    <string msgid="4019495079517426980" name="info_target_label">"Info apl"</string>
+    <string msgid="6545340627805449250" name="invalid_hotseat_item">"Gawit ini terlalu besar untuk hotseat tersebut."</string>
+    <string msgid="4307462194057715796" name="long_press_widget_to_add">"Tekan lama untuk memilih gawit"</string>
+    <string msgid="2652226429823445833" name="market">"Belanja"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Tambahkan"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Tambahkan ke Layar Utama"</string>
+    <string msgid="2308685199463588895" name="menu_manage_apps">"Mengelola aplikasi"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Pemberitahuan"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Telusuri"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Setelan"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Wallpaper"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Tidak ada ruang lagi pada layar Utama ini."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Mengizinkan aplikasi menambahkan pintasan tanpa tindakan dari pengguna."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Mengizinkan aplikasi membaca setelan dan pintasan dalam Beranda."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Mengizinkan aplikasi menghapus pintasan tanpa tindakan dari pengguna."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Mengizinkan aplikasi mengubah setelan dan pintasan dalam Beranda."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"pasang pintasan"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"baca setelan dan pintasan Beranda"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"copot pemasangan pintasan"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"tuliskan setelan dan pintasan Beranda"</string>
+    <string msgid="5630222540525626723" name="pick_wallpaper">"Wallpaper"</string>
+    <string msgid="6016003384693240896" name="rename_action">"OK"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Nama map"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Ubah nama map"</string>
+    <string msgid="4757756326465060694" name="shortcut_duplicate">"Pintasan \"<ns1:g id="NAME">%s</ns1:g>\" sudah ada."</string>
+    <string msgid="7071557296331322355" name="shortcut_installed">"Pintasan \"<ns1:g id="NAME">%s</ns1:g>\" sudah dibuat."</string>
+    <string msgid="2129499669449749995" name="shortcut_uninstalled">"Pintasan \"<ns1:g id="NAME">%s</ns1:g>\" telah dihapus."</string>
+    <string msgid="8031072293115454221" name="title_select_application">"Pilih aplikasi"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Pilih pintasan"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Android Core Apps"</string>
+    <string msgid="7488523163288397451" name="uninstall_system_app_text">"Ini adalah aplikasi sistem dan tidak dapat diunduh."</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Setel wallpaper"</string>
+    <string msgid="9145860100000983599" name="widgets_tab_label">"Widget"</string>
+</resources>

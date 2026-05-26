@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1595097919145716305" name="accessibility_all_apps_button">"แอปพลิเคชัน"</string>
+    <string msgid="3628162007991023603" name="accessibility_delete_button">"ลบ"</string>
+    <string msgid="816822994629942611" name="accessibility_search_button">"ค้นหา"</string>
+    <string msgid="3938249215065842475" name="accessibility_voice_search_button">"Voice Search"</string>
+    <string msgid="5591731020063337696" name="activity_not_found">"ไม่ได้ติดตั้งแอปพลิเคชัน"</string>
+    <string msgid="2578400570124163469" name="all_apps_button_label">"แอปพลิเคชัน"</string>
+    <string msgid="1022222300329398558" name="all_apps_home_button_label">"บ้าน"</string>
+    <string msgid="8424725141379931883" name="application_name">"ตัวเรียกใช้งาน"</string>
+    <string msgid="606113924828167756" name="cab_app_selection_text">"เลือก 1 แอปพลิเคชัน"</string>
+    <string msgid="8916111874189565067" name="cab_folder_selection_text">"เลือก 1 โฟลเดอร์"</string>
+    <string msgid="5180426909324882018" name="cab_menu_app_info">"รายละเอียดแอปพลิเคชัน"</string>
+    <string msgid="1242619904941293871" name="cab_menu_delete_app">"ถอนการติดตั้งแอปพลิเคชัน"</string>
+    <string msgid="8115847384500412878" name="cab_shortcut_selection_text">"เลือก 1 ทางลัด"</string>
+    <string msgid="962527270506951955" name="cab_widget_selection_text">"เลือก 1 วิดเจ็ต"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"ยกเลิก"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"เลือกวอลเปเปอร์จาก"</string>
+    <string msgid="665300185123139530" name="delete_target_label">"นำออก"</string>
+    <string msgid="748894921183769150" name="delete_target_uninstall_label">"ถอนการติดตั้ง"</string>
+    <string msgid="6664588234817475108" name="delete_zone_label_all_apps">"ถอนการติดตั้ง"</string>
+    <string msgid="3683920959591819044" name="delete_zone_label_all_apps_system_app">"ถอนการติดตั้งการอัปเดต"</string>
+    <string msgid="7153615831493049150" name="delete_zone_label_workspace">"นำออก"</string>
+    <string msgid="2847171357608437154" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="4976816434597126575" name="external_drop_widget_error">"ไม่สามารถวางรายการลงในหน้าจอหลักนี้ได้"</string>
+    <string msgid="4481311720134376218" name="external_drop_widget_pick_title">"เลือกวิดเจ็ตที่จะสร้าง"</string>
+    <string msgid="8633351560105748141" name="folder_hint_text">"โฟลเดอร์ที่ไม่มีชื่อ"</string>
+    <string msgid="8551881338202938211" name="folder_name"/>
+    <string msgid="8359351016167075858" name="gadget_error_text">"มีปัญหาขณะโหลดวิดเจ็ต"</string>
+    <string msgid="4118484163419674240" name="group_applications">"แอปพลิเคชัน"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"ทางลัด"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"วอลเปเปอร์"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"วิดเจ็ต"</string>
+    <string msgid="4019495079517426980" name="info_target_label">"ข้อมูลแอปพลิเคชัน"</string>
+    <string msgid="6545340627805449250" name="invalid_hotseat_item">"วิดเจ็ตนี้มีขนาดใหญ่เกินไปสำหรับ hotseat"</string>
+    <string msgid="4307462194057715796" name="long_press_widget_to_add">"กดค้างเพื่อรับวิดเจ็ต"</string>
+    <string msgid="2652226429823445833" name="market">"ร้าน"</string>
+    <string msgid="3065046628354640854" name="menu_add">"เพิ่ม"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"เพิ่มลงในหน้าแรก"</string>
+    <string msgid="2308685199463588895" name="menu_manage_apps">"จัดการแอปพลิเคชัน"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"การแจ้งเตือน"</string>
+    <string msgid="4826514464423239041" name="menu_search">"ค้นหา"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"การตั้งค่า"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"วอลเปเปอร์"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"ไม่มีที่ว่างในหน้าจอหลักนี้"</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"อนุญาตให้แอปพลิเคชันเพิ่มทางลัดโดยไม่ต้องให้ผู้ใช้จัดการ"</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"อนุญาตให้แอปพลิเคชันอ่านการตั้งค่าและทางลัดในหน้าแรก"</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"อนุญาตให้แอปพลิเคชันนำทางลัดออกโดยไม่ต้องให้ผู้ใช้จัดการ"</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"อนุญาตให้แอปพลิเคชันเปลี่ยนการตั้งค่าและทางลัดในหน้าแรก"</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"ติดตั้งทางลัด"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"อ่านการตั้งค่าและทางลัดหน้าแรกแล้ว"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"ถอนการติดตั้งทางลัด"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"เขียนการตั้งค่าและทางลัดหน้าแรกแล้ว"</string>
+    <string msgid="5630222540525626723" name="pick_wallpaper">"วอลเปเปอร์"</string>
+    <string msgid="6016003384693240896" name="rename_action">"ตกลง"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"ชื่อโฟลเดอร์"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"เปลี่ยนชื่อโฟลเดอร์"</string>
+    <string msgid="4757756326465060694" name="shortcut_duplicate">"ทางลัด \"<ns1:g id="NAME">%s</ns1:g>\" มีอยู่แล้ว"</string>
+    <string msgid="7071557296331322355" name="shortcut_installed">"สร้างทางลัด \"<ns1:g id="NAME">%s</ns1:g>\" แล้ว"</string>
+    <string msgid="2129499669449749995" name="shortcut_uninstalled">"ทางลัด \"<ns1:g id="NAME">%s</ns1:g>\" ถูกนำออกแล้ว"</string>
+    <string msgid="8031072293115454221" name="title_select_application">"เลือกแอปพลิเคชัน"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"เลือกทางลัด"</string>
+    <string msgid="3371120195364560632" name="uid_name">"แอปหลัก Android"</string>
+    <string msgid="7488523163288397451" name="uninstall_system_app_text">"นี่เป็นแอปพลิเคชันระบบและไม่สามารถถอนการติดตั้งได้"</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"ตั้งค่าวอลเปเปอร์"</string>
+    <string msgid="9145860100000983599" name="widgets_tab_label">"วิดเจ็ต"</string>
+</resources>

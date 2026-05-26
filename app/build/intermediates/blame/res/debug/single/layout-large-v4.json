@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\external_widget_drop_list_item.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\layout-large\\external_widget_drop_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\search_bar.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\layout-large\\search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\wallpaper_item.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\layout-large\\wallpaper_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\workspace.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\layout-large\\workspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\workspace_screen.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\layout-large\\workspace_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\launcher.xml",
+        "source": "C:\\Users\\Nanami\\AndroidStudioProjects\\BetaLauncher\\app\\src\\main\\res\\layout-large\\launcher.xml"
+    }
+]

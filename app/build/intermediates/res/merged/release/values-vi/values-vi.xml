@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1595097919145716305" name="accessibility_all_apps_button">"Ứng dụng"</string>
+    <string msgid="3628162007991023603" name="accessibility_delete_button">"Xóa"</string>
+    <string msgid="816822994629942611" name="accessibility_search_button">"Tìm kiếm"</string>
+    <string msgid="3938249215065842475" name="accessibility_voice_search_button">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="5591731020063337696" name="activity_not_found">"Ứng dụng chưa được cài đặt."</string>
+    <string msgid="2578400570124163469" name="all_apps_button_label">"Ứng dụng"</string>
+    <string msgid="1022222300329398558" name="all_apps_home_button_label">"Màn hình trang chủ"</string>
+    <string msgid="8424725141379931883" name="application_name">"Trình khởi chạy"</string>
+    <string msgid="606113924828167756" name="cab_app_selection_text">"Đã chọn 1 ứng dụng"</string>
+    <string msgid="8916111874189565067" name="cab_folder_selection_text">"Đã chọn 1 thư mục"</string>
+    <string msgid="5180426909324882018" name="cab_menu_app_info">"Chi tiết ứng dụng"</string>
+    <string msgid="1242619904941293871" name="cab_menu_delete_app">"Gỡ cài đặt ứng dụng"</string>
+    <string msgid="8115847384500412878" name="cab_shortcut_selection_text">"Đã chọn 1 lối tắt"</string>
+    <string msgid="962527270506951955" name="cab_widget_selection_text">"Đã chọn 1 tiện ích"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"Hủy"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Chọn hình nền từ"</string>
+    <string msgid="665300185123139530" name="delete_target_label">"Xóa"</string>
+    <string msgid="748894921183769150" name="delete_target_uninstall_label">"Gỡ cài đặt"</string>
+    <string msgid="6664588234817475108" name="delete_zone_label_all_apps">"Gỡ cài đặt"</string>
+    <string msgid="3683920959591819044" name="delete_zone_label_all_apps_system_app">"Gỡ cài đặt cập nhật"</string>
+    <string msgid="7153615831493049150" name="delete_zone_label_workspace">"Xóa"</string>
+    <string msgid="2847171357608437154" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="4976816434597126575" name="external_drop_widget_error">"Không thể thả mục vào màn hình chính này"</string>
+    <string msgid="4481311720134376218" name="external_drop_widget_pick_title">"Chọn tiện ích để tạo"</string>
+    <string msgid="8633351560105748141" name="folder_hint_text">"Thư mục chưa đặt tên"</string>
+    <string msgid="8551881338202938211" name="folder_name"/>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Sự cố khi tải tiện ích"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Ứng dụng"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Lối tắt"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Hình nền"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Tiện ích"</string>
+    <string msgid="4019495079517426980" name="info_target_label">"Thông tin ứng dụng"</string>
+    <string msgid="6545340627805449250" name="invalid_hotseat_item">"Tiện ích con này quá lớn cho điểm giới hạn."</string>
+    <string msgid="4307462194057715796" name="long_press_widget_to_add">"Nhấn và giữ để chọn tiện ích con"</string>
+    <string msgid="2652226429823445833" name="market">"Mua hàng"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Thêm"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Thêm vào Màn hình chính"</string>
+    <string msgid="2308685199463588895" name="menu_manage_apps">"Quản lý ứng dụng"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Thông báo"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Tìm kiếm"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Cài đặt"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Hình nền"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Không còn khoảng trống trên Màn hình chính này."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Cho phép ứng dụng thêm lối tắt mà không cần sự can thiệp của người dùng."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Cho phép ứng dụng đọc cài đặt và lối tắt trên Màn hình trang chủ."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Cho phép ứng dụng xoá lối tắt mà không cần sự can thiệp của người dùng."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Cho phép ứng dụng thay đổi cài đặt và lối tắt trên Màn hình trang chủ."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"cài đặt lối tắt"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"đọc cài đặt Màn hình trang chủ và lối tắt"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"gỡ cài đặt lối tắt"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"ghi cài đặt Màn hình trang chủ và lối tắt"</string>
+    <string msgid="5630222540525626723" name="pick_wallpaper">"Hình nền"</string>
+    <string msgid="6016003384693240896" name="rename_action">"OK"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Tên thư mục"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Đổi tên thư mục"</string>
+    <string msgid="4757756326465060694" name="shortcut_duplicate">"Lối tắt \"<ns1:g id="NAME">%s</ns1:g>\" đã tồn tại."</string>
+    <string msgid="7071557296331322355" name="shortcut_installed">"Lối tắt \"<ns1:g id="NAME">%s</ns1:g>\" đã được tạo."</string>
+    <string msgid="2129499669449749995" name="shortcut_uninstalled">"Lối tắt \"<ns1:g id="NAME">%s</ns1:g>\" đã bị xoá."</string>
+    <string msgid="8031072293115454221" name="title_select_application">"Chọn ứng dụng"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Chọn lối tắt"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Ứng dụng Lõi Android"</string>
+    <string msgid="7488523163288397451" name="uninstall_system_app_text">"Đây là ứng dụng hệ thống và không thể gỡ cài đặt."</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Đặt hình nền"</string>
+    <string msgid="9145860100000983599" name="widgets_tab_label">"Tiện ích"</string>
+</resources>

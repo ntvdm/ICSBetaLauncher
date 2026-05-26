@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="1595097919145716305" name="accessibility_all_apps_button">"Appar"</string>
+    <string msgid="3628162007991023603" name="accessibility_delete_button">"Ta bort"</string>
+    <string msgid="816822994629942611" name="accessibility_search_button">"Sök"</string>
+    <string msgid="3938249215065842475" name="accessibility_voice_search_button">"Röstsökning"</string>
+    <string msgid="5591731020063337696" name="activity_not_found">"Appen är inte installerad."</string>
+    <string msgid="2578400570124163469" name="all_apps_button_label">"Appar"</string>
+    <string msgid="1022222300329398558" name="all_apps_home_button_label">"Startsida"</string>
+    <string msgid="8424725141379931883" name="application_name">"Startbild"</string>
+    <string msgid="606113924828167756" name="cab_app_selection_text">"1 app har valts"</string>
+    <string msgid="8916111874189565067" name="cab_folder_selection_text">"1 mapp vald"</string>
+    <string msgid="5180426909324882018" name="cab_menu_app_info">"Programinformation"</string>
+    <string msgid="1242619904941293871" name="cab_menu_delete_app">"Avinstallera app"</string>
+    <string msgid="8115847384500412878" name="cab_shortcut_selection_text">"1 genväg har valts"</string>
+    <string msgid="962527270506951955" name="cab_widget_selection_text">"1 widget vald"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"Avbryt"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Välj bakgrund från"</string>
+    <string msgid="665300185123139530" name="delete_target_label">"Ta bort"</string>
+    <string msgid="748894921183769150" name="delete_target_uninstall_label">"Avinstallera"</string>
+    <string msgid="6664588234817475108" name="delete_zone_label_all_apps">"Avinstallera"</string>
+    <string msgid="3683920959591819044" name="delete_zone_label_all_apps_system_app">"Avinstallera uppdatering"</string>
+    <string msgid="7153615831493049150" name="delete_zone_label_workspace">"Ta bort"</string>
+    <string msgid="2847171357608437154" name="dream_name">"Raketavfyringsramp"</string>
+    <string msgid="4976816434597126575" name="external_drop_widget_error">"Objektet kunde inte släppas på den här startsidan"</string>
+    <string msgid="4481311720134376218" name="external_drop_widget_pick_title">"Välj en widget att skapa"</string>
+    <string msgid="8633351560105748141" name="folder_hint_text">"Namnlös mapp"</string>
+    <string msgid="8551881338202938211" name="folder_name"/>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Det gick inte att läsa in widgeten"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Appar"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Genvägar"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Bakgrundsbilder"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Widgetar"</string>
+    <string msgid="4019495079517426980" name="info_target_label">"Info om appen"</string>
+    <string msgid="6545340627805449250" name="invalid_hotseat_item">"Denna widget är för stor för Hotseat."</string>
+    <string msgid="4307462194057715796" name="long_press_widget_to_add">"Tryck länge om du vill plocka upp en widget"</string>
+    <string msgid="2652226429823445833" name="market">"Butik"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Lägg till"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Lägg till på startsidan"</string>
+    <string msgid="2308685199463588895" name="menu_manage_apps">"Hantera appar"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Aviseringar"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Sök"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Inställningar"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Bakgrund"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Det finns inte plats för mer på den här startsidan."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Tillåter att ett program lägger till genvägar utan åtgärd från användaren."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Tillåter att ett program läser inställningar och genvägar på startsidan."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Tillåter att ett program tar bort genvägar utan åtgärd från användaren."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Tillåter att ett program ändrar inställningar och genvägar på startsidan."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"installera genvägar"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"läsa inställningar och genvägar för startsidan"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"avinstallera genvägar"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"skriva inställningar och genvägar för startsidan"</string>
+    <string msgid="5630222540525626723" name="pick_wallpaper">"Bakgrundsbilder"</string>
+    <string msgid="6016003384693240896" name="rename_action">"OK"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Mappnamn"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Byt namn på mapp"</string>
+    <string msgid="4757756326465060694" name="shortcut_duplicate">"Genvägen \"<ns1:g id="NAME">%s</ns1:g>\" finns redan."</string>
+    <string msgid="7071557296331322355" name="shortcut_installed">"Genvägen \"<ns1:g id="NAME">%s</ns1:g>\" har skapats."</string>
+    <string msgid="2129499669449749995" name="shortcut_uninstalled">"Genvägen \"<ns1:g id="NAME">%s</ns1:g>\" har tagits bort."</string>
+    <string msgid="8031072293115454221" name="title_select_application">"Välj app"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Välj genväg"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Android Core Apps"</string>
+    <string msgid="7488523163288397451" name="uninstall_system_app_text">"Det här är ett systemprogram och kan inte avinstalleras."</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Ange bakgrund"</string>
+    <string msgid="9145860100000983599" name="widgets_tab_label">"Widgetar"</string>
+</resources>
